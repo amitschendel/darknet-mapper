@@ -22,9 +22,9 @@ with the following information:<br />
 
 ## Terminology
 
-Clearnet - publicly accessible Internet.<br />
-Deep Web - parts of the World Wide Web whose contents are not indexed by standard web search-engines.<br />
-Darknet - overlay network within the Internet that can only be accessed with specific software, configurations, or <br />authorization, and often uses a unique customised communication protocol.
+**Clearnet** - publicly accessible Internet.<br />
+**Deep Web** - parts of the World Wide Web whose contents are not indexed by standard web search-engines.<br />
+**Darknet** - overlay network within the Internet that can only be accessed with specific software, configurations, or <br />authorization, and often uses a unique customised communication protocol.
 
 ![darknet_ice](https://user-images.githubusercontent.com/58078857/79280206-7168d780-7eb8-11ea-90f9-16205992a004.png)
 
