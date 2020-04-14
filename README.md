@@ -16,7 +16,7 @@ with the following information:<br />
 4. emails<br />
 5. telegram links<br />
 6. bitcoin wallets<br />
-7. gathered_links<br />
+7. gathered links<br />
 8. date<br />
 9. tags (category of the website by keywords)<br />
 
