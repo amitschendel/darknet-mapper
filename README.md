@@ -1,6 +1,6 @@
 # Darknet mapper
 
-Darknet mapper is a project I did in order to resarch about the darknet.<br />
+Darknet mapper is a project I did in order to research about the darknet.<br />
 After exploring a bit inside the darknet I saw that is very hard to search for<br />
 links. Moreover, even if you find links a lot of them dosen't work.<br />
 So I decided to build a crawler that will search links for me and store a little bit of information on each link.<br />
