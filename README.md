@@ -30,6 +30,9 @@ with the following information:<br />
 
 ## Installation
 
+If you dont have mongodb installed make sure to install it:<br />
+```https://docs.mongodb.com/manual/installation/```
+
 ```bash
 pip install -r requirements.txt
 ```
